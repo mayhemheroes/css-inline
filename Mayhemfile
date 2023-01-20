@@ -1,0 +1,5 @@
+image: tngo04/css-inline:latest
+project: tngo04/css-inline
+target: inline
+cmds:
+  - cmd: /inline
